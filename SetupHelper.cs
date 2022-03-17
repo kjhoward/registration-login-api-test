@@ -1,4 +1,3 @@
-using DevConsulting.RegistrationLoginApi.Models;
 using RegistrationLoginApi.Data.DataModels;
 using RegistrationLoginApi.Data;
 using Microsoft.EntityFrameworkCore;

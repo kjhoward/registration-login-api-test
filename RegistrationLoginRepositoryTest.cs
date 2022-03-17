@@ -6,8 +6,7 @@ using RegistrationLoginApi.Data;
 using RegistrationLoginApi.Test.Mapping;
 using System.Linq;
 using BCryptNet = BCrypt.Net.BCrypt;
-using DevConsulting.RegistrationLoginApi.Models;
-using RegistrationLoginApi.Data.DataModels;
+using DevConsulting.RegistrationLoginApi.Client;
 namespace RegistrationLoginApi.Test;
 
 public class RegistrationLoginRepositoryTest

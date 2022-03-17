@@ -21,7 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CommonLibraries\DevConsulting.Common.Models\DevConsulting.Common.Models.csproj" />
-    <ProjectReference Include="..\CommonLibraries\DevConsulting.RegistrationLoginApi.Models\DevConsulting.RegistrationLoginApi.Models.csproj" />
+    <ProjectReference Include="..\CommonLibraries\DevConsulting.RegistrationLoginApi.Models\DevConsulting.RegistrationLoginApi.Client.csproj" />
     <ProjectReference Include="..\dotnet-5-registration-login-api\RegistrationLoginApi.csproj" />
   </ItemGroup>
 

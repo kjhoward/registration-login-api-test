@@ -1,5 +1,5 @@
 using AutoMapper;
-using DevConsulting.RegistrationLoginApi.Models;
+using DevConsulting.RegistrationLoginApi.Client;
 using RegistrationLoginApi.Data.DataModels;
 
 namespace RegistrationLoginApi.Test.Mapping{
